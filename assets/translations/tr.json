@@ -1,0 +1,36 @@
+{
+  "auth": {
+    "welcome": "XOX Oyununa Hoş Geldiniz",
+    "enter_name": "Adınızı girin",
+    "name_hint": "Adınız",
+    "continue": "Devam Et",
+    "name_required": "İsim gerekli"
+  },
+  "home": {
+    "create_game": "Oyun Oluştur",
+    "join_game": "Oyuna Katıl",
+    "enter_game_id": "Oyun ID'sini girin",
+    "game_id_hint": "Oyun ID",
+    "join": "Katıl",
+    "game_id_required": "Oyun ID'si gerekli",
+    "game_not_found": "Oyun bulunamadı",
+    "game_already_full": "Oyun dolu",
+    "copied_to_clipboard": "Oyun ID'si panoya kopyalandı",
+    "waiting_for_opponent": "Rakip bekleniyor..."
+  },
+  "game": {
+    "your_turn": "Sizin sıranız",
+    "opponent_turn": "Rakibin sırası",
+    "you_won": "Kazandınız!",
+    "you_lost": "Kaybettiniz!",
+    "draw": "Berabere!",
+    "opponent_left": "Rakip oyundan ayrıldı!",
+    "play_again": "Tekrar Oyna",
+    "back_to_home": "Ana Sayfaya Dön",
+    "invalid_move": "Geçersiz hamle"
+  },
+  "settings": {
+    "dark_mode": "Karanlık Mod",
+    "language": "Dil"
+  }
+} 

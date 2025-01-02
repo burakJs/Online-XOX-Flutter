@@ -1,0 +1,36 @@
+{
+  "auth": {
+    "welcome": "Welcome to XOX Game",
+    "enter_name": "Enter your name",
+    "name_hint": "Your name",
+    "continue": "Continue",
+    "name_required": "Name is required"
+  },
+  "home": {
+    "create_game": "Create Game",
+    "join_game": "Join Game",
+    "enter_game_id": "Enter Game ID",
+    "game_id_hint": "Game ID",
+    "join": "Join",
+    "game_id_required": "Game ID is required",
+    "game_not_found": "Game not found",
+    "game_already_full": "Game is already full",
+    "copied_to_clipboard": "Game ID copied to clipboard",
+    "waiting_for_opponent": "Waiting for opponent..."
+  },
+  "game": {
+    "your_turn": "Your turn",
+    "opponent_turn": "Opponent's turn",
+    "you_won": "You won!",
+    "you_lost": "You lost!",
+    "draw": "Draw!",
+    "opponent_left": "Opponent left the game!",
+    "play_again": "Play Again",
+    "back_to_home": "Back to Home",
+    "invalid_move": "Invalid move"
+  },
+  "settings": {
+    "dark_mode": "Dark Mode",
+    "language": "Language"
+  }
+} 
