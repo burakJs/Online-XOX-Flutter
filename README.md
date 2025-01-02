@@ -7,7 +7,9 @@
 
 A modern, real-time multiplayer Tic-tac-toe game built with Flutter. Features WebSocket communication, beautiful UI, and smooth animations.
 
-![Game Preview](https://github.com/user-attachments/assets/0efe71f8-1cb9-4710-a08d-b2e4671d5da7)
+## 🎮 Demo
+
+https://github.com/user-attachments/assets/70c79a5c-3039-48de-9455-3ae9045c0290
 
 ## ✨ Features
 
