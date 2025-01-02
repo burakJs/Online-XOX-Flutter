@@ -207,7 +207,3 @@ lib/
 - Fallback language handling
 - Dynamic language switching
 - Persistent language preference
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
